@@ -2,7 +2,7 @@
 
 ## 生成结果
 
-![](F:\learn\docs\mybatis逆向工程.png)
+![](doc/img/mybatis逆向工程.png)
 
 ## 一、pom.xml添加依赖jar包
 
