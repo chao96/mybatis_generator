@@ -1,4 +1,4 @@
-# Mybatis逆向工程构建代码
+# Mybatis逆向工程代码
 
 ## 生成结果
 
@@ -116,7 +116,6 @@
 ## 三、创建运行类MybatisGenerator
 
 ```java
-![mybatis逆向工程](F:\learn\docs\mybatis逆向工程.png)package com.mybatis;
 
 import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;
