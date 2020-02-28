@@ -2,7 +2,7 @@
 简单方便的生成（mapper.java、mapper.xml、pojo…）文件
 ## 生成结果
 
-![](doc\img\mybatis逆向工程.png)
+![](doc/img/mybatis逆向工程.png)
 
 ## 一、pom.xml添加依赖jar包
 
